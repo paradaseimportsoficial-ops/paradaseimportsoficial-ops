@@ -9,7 +9,7 @@
 ![Motorola](https://img.shields.io/badge/Motorola-Projects-087EA4?style=for-the-badge&logo=motorola)
 ![Samsung](https://img.shields.io/badge/Samsung-Projects-087EA4?style=for-the-badge&logo=samsung)
 
-[![TikTok](https://img.shields.io/badge/TikTok-@tecnicoroot-101010?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@tecnicoroot)
+<a href="https://www.tiktok.com/@tecnicoroot"><img src="https://img.shields.io/badge/TikTok-%40tecnicoroot-111827?style=for-the-badge&logo=tiktok&logoColor=25F4EE" alt="TikTok do Técnico Root" height="36"></a>
 
 </div>
 
@@ -25,18 +25,18 @@ Desenvolvimento de aplicativos mobile, jogos, customização Android e estudos d
 
 | Projeto | Foco |
 | --- | --- |
-| [Moto G84 — KernelSU Next](https://github.com/paradaseimportsoficial-ops/ksu-next-motog84) | Compilação e testes de kernel |
-| [Moto G84 — Técnico Root V1](https://github.com/paradaseimportsoficial-ops/Kernel-motog84) | Personalização do nome do kernel |
-| [Moto G75](https://github.com/paradaseimportsoficial-ops/moto-g75-kernelsu-next) | KernelSU Next |
-| [Edge 50 Fusion](https://github.com/paradaseimportsoficial-ops/kernel_build_cusco) | Compilação experimental GKI |
-| [Edge 60 Fusion](https://github.com/paradaseimportsoficial-ops/kernelsu-next-edge60fusion) | Compilação experimental GKI |
+| [Moto G84 — KernelSU Next](https://github.com/paradaseimportsoficial-ops/Moto-G84-KernelSU-Next) | Compilação e testes de kernel |
+| [Moto G84 — Técnico Root V1](https://github.com/paradaseimportsoficial-ops/Moto-G84-TecnicoRoot-V1) | Personalização do nome do kernel |
+| [Moto G75](https://github.com/paradaseimportsoficial-ops/Moto-G75-KernelSU-Next) | KernelSU Next |
+| [Edge 50 Fusion](https://github.com/paradaseimportsoficial-ops/Edge-50-Fusion-KernelSU-Next) | Compilação experimental GKI |
+| [Edge 60 Fusion](https://github.com/paradaseimportsoficial-ops/Edge-60-Fusion-KernelSU-Next) | Compilação experimental GKI |
 
 ## 🛠️ Projetos Samsung
 
 | Projeto | Foco |
 | --- | --- |
-| [Galaxy M52 — UN1CA](https://github.com/paradaseimportsoficial-ops/kernel-m52-ivan-UN1CA) | Experimentos com boot e KernelSU Next |
-| [NovaKernel](https://github.com/paradaseimportsoficial-ops/Nova-Kernel.-Meu-ivan) | Fork para a plataforma SM7325 |
+| [Galaxy M52 — UN1CA](https://github.com/paradaseimportsoficial-ops/Galaxy-M52-UN1CA-Kernel) | Experimentos com boot e KernelSU Next |
+| [NovaKernel](https://github.com/paradaseimportsoficial-ops/NovaKernel-SM7325) | Fork para a plataforma SM7325 |
 
 ## 🤝 Comunidade e créditos
 
